@@ -9,5 +9,5 @@ dist/
 build/
 *.egg-info/
 reports/*.json
-reports/*.md
+# reports/*.md
 !.gitkeep
